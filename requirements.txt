@@ -1,0 +1,3 @@
+
+# Deprecated / incompatible dependencies
+futures==3.3.0
